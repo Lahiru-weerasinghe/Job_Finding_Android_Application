@@ -1,6 +1,6 @@
 {
-    "name": "career_builder_app",
-    "short_name": "career_builder_app",
+    "name": "linkup",
+    "short_name": "linkup",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

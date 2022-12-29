@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1038875679441-bjjd2s8th1e3vaom34ghsqdm5ol0d1rs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1038875679441-bjjd2s8th1e3vaom34ghsqdm5ol0d1rs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNvXJrdg5nEf1Dy-ilm2J9HArmsDHPE_w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1038875679441</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.linkup</string>
+	<key>PROJECT_ID</key>
+	<string>linkup-31422</string>
+	<key>STORAGE_BUCKET</key>
+	<string>linkup-31422.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1038875679441:ios:07f4466e4342d4b304c3f0</string>
+</dict>
+</plist>
